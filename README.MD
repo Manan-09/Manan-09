@@ -23,6 +23,7 @@
 - 🤔 My interest lies in full stack development and competitive coding
 - 💬 Ask me about backend development and DSA
 - ❤️  Love to build new things and share knowledge
+- 📧 Reach me out at : manansolanki09@gmail.com
 
 <br />
 
