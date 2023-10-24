@@ -56,7 +56,7 @@
 
 [![My Secrets](https://github-readme-stats.vercel.app/api/pin/?username=Manan-09&repo=My-Secrets&theme=dracula&show_icons=true&hide_border=true&layout=compact)](https://github.com/Manan-09/My-Secrets)
 
-[![Small React Projects](https://github-readme-stats.vercel.app/api/pin/?username=Manan-09&repo=Learning-React&theme=dracula&show_icons=true&hide_border=true&layout=compact)](https://github.com/Manan-09/Learning-React)
+[![Tweet Talk](https://github-readme-stats.vercel.app/api/pin/?username=Manan-09&repo=Tweet-Talk&theme=dracula&show_icons=true&hide_border=true&layout=compact)](https://github.com/Manan-09/Tweet-Talk)
 
 [![TheAlgorithms Java](https://github-readme-stats.vercel.app/api/pin/?username=Manan-09&repo=TheAlgorithms-Java&theme=dracula&show_icons=true&hide_border=true&layout=compact)](https://github.com/Manan-09/TheAlgorithms-Java)
 
